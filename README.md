@@ -2,7 +2,8 @@
 
 A modern login form with glassmorphism effect
 
-![Preview](./Login3.png)
+![Uploading Login3.png…]()
+
 
 ## ✨ Features
 - Glass design using `backdrop-filter`
@@ -22,3 +23,4 @@ A modern login form with glassmorphism effect
 
 ## 📄 License
 This is an educational project and can be used freely.
+
