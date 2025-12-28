@@ -1,9 +1,5 @@
 # 🎨 Login Form UI Design
-
 A modern login form with glassmorphism effect
-
-![Uploading Login3.png…]()
-
 
 ## ✨ Features
 - Glass design using `backdrop-filter`
@@ -23,4 +19,5 @@ A modern login form with glassmorphism effect
 
 ## 📄 License
 This is an educational project and can be used freely.
+
 
